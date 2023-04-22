@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323316850895",
+    "firebase_url": "https://note-planner-cbf44-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "note-planner-cbf44",
+    "storage_bucket": "note-planner-cbf44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323316850895:android:1075bf796d46dc3df457ba",
+        "android_client_info": {
+          "package_name": "com.example.notes_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323316850895-6tuur0o7qhd2nq162ichfoepkcjh0ql8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7h9-UtH59IYg9h99cdcj0_Za45kFl42k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323316850895-6tuur0o7qhd2nq162ichfoepkcjh0ql8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
